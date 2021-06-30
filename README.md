@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm KingJoshua!
-
+🔭 I’m currently working on Html Projects
+- 🌱 I’m currently learning Html and JavaScripts
+- 👯 I’m looking to collaborate on more Html and JavaScripts projects
 <!--
 **KheengJhay/KheengJhay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

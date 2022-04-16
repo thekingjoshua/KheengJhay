@@ -5,7 +5,7 @@
 - You can reach me on WhatsApp;https://wa.me/2349136222147?text=Hello%20KingJoshua, Email; mailto:kingjayeriughe@gmail.com
 # Hello friend... <hr>
 
-<!-- <p align = "center"><img src= "https://user-images.githubusercontent.com/44436048/155865918-0513c726-3553-49b0-a62c-e6b4307cd397.gif"><i>TechScrolls</i></img></p> -->
+ <p align = "center"><img src= "https://user-images.githubusercontent.com/44436048/155865918-0513c726-3553-49b0-a62c-e6b4307cd397.gif"><i>TechScrolls</i></img></p>
 
 
 

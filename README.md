@@ -33,11 +33,5 @@
    
 #### Pronouns: He/Him/His/Arty/Alpha :) <hr>
    
- ## How to reach me?
-  Twitter - [itunuayo_john](https://twitter.com/) </br>
-  LinkedIn - [Adebiyi Itunuayo](https://www.linkedin.com/in/adebiyi-itunuayo-397bab151) </br>
-  E-mail - itunuayoadebiyi@gmail.com </br>
-  Contact - +2347039910992 <hr> 
-  
-### Funfact - Stack-Overflow and Google :)))
+ <h2 align ="center" style="color: red"> My Skills </h2>
 

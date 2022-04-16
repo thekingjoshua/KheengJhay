@@ -31,3 +31,7 @@
    
  <h2 align ="center" style="color: red"> My Skills </h2>
 
+<img align="left" alt="Emeka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=iloba&theme=highcontrast&show_icons=true&count_private=true" />
+
+
+

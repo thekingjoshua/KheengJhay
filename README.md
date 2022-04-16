@@ -33,5 +33,5 @@
 
 <img align="left" alt="Emeka's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KheengJhay&theme=highcontrast&show_icons=true&count_private=true" />
 
-
+https://raw.githubusercontent.com/Kheengjhay/cookiecutter/3ac078356adf5a1a72042dfe72ebfa4a9cd5ef38/logo/cookiecutter_medium.png
 

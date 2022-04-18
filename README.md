@@ -2,7 +2,7 @@
 <hr>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=1280E9&lines=Front+End+Website+Designer;A+Passionate+Learner!">
-### My Skill Set  
+<h2> My Skill Set </h2>  
 <table><tr><td valign="top" width="33%">
 
 ### Frontend  

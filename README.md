@@ -4,7 +4,7 @@
 <h2><img src="https://readme-typing-svg.herokuapp.com?color=1280E9&lines=Front+End+Website+Designer;A+Passionate+Learner!"></h2>
 <h2 align="center"> My Skill Set <br> <br>
 
-<table align="center" width="80%"><tr><td valign="top" width="50%"></h2>
+<table align="center" width="100%"><tr><td valign="top" width="50%"></h2>
 
 ### Frontend  
 <div align="center">  

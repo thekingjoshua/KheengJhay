@@ -19,6 +19,15 @@
  <a href= "https://www.linkedin/in/kingjay"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
   <a href= "https://www.instagram.com/kheeng_jhay"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 <br> <br> <br>
-<h2><img align="left" alt="KheengJay's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=KheengJhay&theme=highcontrast&show_icons=true&count_private=true" /> </h2>
+## Github Stats
+<br>
+
+<h2> <img align="left" alt="KheengJay's Stats" src="https://readme-stats-envoy-vc.vercel.app/api?username=KheengJhay&show_icons=true&theme=dark" /> </h2>
+
+<br>
+
+----
+
+<br>
 
 <h2> <img align="left" alt="KheengJay's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KheengJhay&theme=blue-green" /> </h2>

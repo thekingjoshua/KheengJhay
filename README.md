@@ -1,12 +1,5 @@
-### Hi there 👋 I'm KingJoshua!
-🔭 I’m currently working on Html Projects
-- 🌱 I’m currently learning Html and JavaScripts
-- 👯 I’m looking to collaborate on more Html and JavaScripts projects
-- You can reach me on WhatsApp;https://wa.me/2349136222147?text=Hello%20KingJoshua, Email; mailto:kingjayeriughe@gmail.com
-# Hello friend... <hr>
-
-<h2>Hey! </h2>
- I'm a self-taught programmer who is learning to code for fun and enjoys learning new things and solving problems. I have the hope of one day working at a company as a software developer, and until then I'll keep working on learning each day and enjoying the process. I have a fairly outgoing personality, so feel free to say *hello*! <hr>
+<h2>Hey, I'm KingJoshua </h2>
+<hr>
 
 <h2 align = "center" >My Tech Stack</h2>
 

@@ -2,9 +2,9 @@
 <hr>
 
 <h2><img src="https://readme-typing-svg.herokuapp.com?color=1280E9&lines=Front+End+Website+Designer;A+Passionate+Learner!"></h2>
-<h2 align="center"> My Skill Set </h2>
+<h2 align="center"> My Skill Set <br> <br>
 
-<table align="center"><tr><td valign="top" width="33%">
+<table align="center" width="50%"><tr><td valign="top" width="50%"></h2>
 
 ### Frontend  
 <div align="center">  
@@ -19,22 +19,22 @@
  <a href= "https://www.linkedin/in/kingjay"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
   <a href= "https://www.instagram.com/kheeng_jhay"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 <br> <br> <br>
-## Github Stats
+
+### Github Stats 
+
+<img align="left" alt="KheengJay's Stats" src="https://readme-stats-envoy-vc.vercel.app/api?username=KheengJhay&show_icons=true&theme=dark" /> 
+
+<br> <br> <br> <br>
+
+
+
+<br> <br> <br> <br>
+
+<img align="left" alt="KheengJay's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KheengJhay&theme=blue-green" />
+
+<br>
 <br>
 
-<h2> <img align="left" alt="KheengJay's Stats" src="https://readme-stats-envoy-vc.vercel.app/api?username=KheengJhay&show_icons=true&theme=dark" /> </h2>
 
-<br> <br> <br> 
-
-<hr>
-
-<br> <br> <br>
-
-<h2> <img align="left" alt="KheengJay's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KheengJhay&theme=blue-green" /> </h2>
-
-<br>
-<br>
-
-<hr>
 
 <br>

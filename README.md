@@ -1,6 +1,6 @@
-<h2>Hey, I'm KingJoshua </h2>
+<h2>Hey, I'm KingJoshua <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> </h2>
 <hr>
-# Hi there, I'm KingJoshua <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+
 <img src="https://readme-typing-svg.herokuapp.com?color=1280E9&lines=Front+End+Website+Designer;A+Passionate+Learner!">
 ## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <h2 align = "center" >My Tech Stack</h2>

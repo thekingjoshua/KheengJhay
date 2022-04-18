@@ -2,8 +2,7 @@
 <hr>
 
 <img src="https://readme-typing-svg.herokuapp.com?color=1280E9&lines=Front+End+Website+Designer;A+Passionate+Learner!">
-## Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
-<h2 align = "center" >My Tech Stack</h2>
+<h2> Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> </h2>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">

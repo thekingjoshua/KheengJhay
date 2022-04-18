@@ -24,17 +24,17 @@
 
 <h2> <img align="left" alt="KheengJay's Stats" src="https://readme-stats-envoy-vc.vercel.app/api?username=KheengJhay&show_icons=true&theme=dark" /> </h2>
 
-<br>
+<br> <br> <br> 
 
-----
+<hr>
 
-<br>
+<br> <br> <br>
 
 <h2> <img align="left" alt="KheengJay's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KheengJhay&theme=blue-green" /> </h2>
 
 <br>
 <br>
 
-----
+<hr>
 
 <br>

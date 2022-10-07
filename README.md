@@ -20,10 +20,6 @@
   <a href= "https://www.instagram.com/kheeng_jhay"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
 <br> <br> <br>
 
-### Github Stats 
-
-<img align="left" alt="KheengJay's Stats" src="https://readme-stats-envoy-vc.vercel.app/api?username=KheengJhay&show_icons=true&theme=dark" /> 
-
 <br> <br> <br> <br>
 
 

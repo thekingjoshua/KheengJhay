@@ -1,36 +1,24 @@
 <h2>Hey, I'm KingJoshua <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> </h2>
 <hr>
 
-<h2><img src="https://readme-typing-svg.herokuapp.com?color=1280E9&lines=Front+End+Website+Designer;A+Passionate+Learner!"></h2>
-<h2 align="center"> My Skill Set <br> <br>
-
-<table align="center" width="50%"><tr><td valign="top" width="50%"></h2>
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />   
-</td></tr></table>
-   
-<h2> Connect with me <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> </h2>
- <a href= "https://wa.link/rc6zeu"> <img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"> </a>
- <a href= "https://www.facebook.com/kheeng.jhay"> <img src = "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"> </a>
- <a href= "https://twitter.com/kheengjhay__"> <img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"> </a>
- <a href= "https://www.linkedin/in/kingjay"> <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-  <a href= "https://www.instagram.com/kheeng_jhay"> <img src = "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> </a>
-<br> <br> <br>
-
-<br> <br> <br> <br>
 
 
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/kheeng.jhay) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/kheeng_jhay) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin/in/kingjay) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/kheengjhay__) 
 
-<br> <br> <br> <br>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=KheengJhay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KheengJhay&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KheengJhay&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img align="left" alt="KheengJay's GitHub Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KheengJhay&theme=blue-green" />
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=KheengJhay&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-<br>
-<br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
+---
+[![](https://visitcount.itsvg.in/api?id=KheengJhay&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<br>
